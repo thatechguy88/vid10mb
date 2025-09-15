@@ -1,0 +1,14 @@
+[project]
+name = "vid10mb"
+version = "0.0.1"
+description = "Shrink videos to fit under 10 MB using ffmpeg."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.scripts]
+vid10mb = "vid10mb.cli:main"
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"

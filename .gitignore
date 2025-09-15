@@ -1,0 +1,16 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Build / dist
+build/
+dist/
+*.egg-info/
+
+# OS
+.DS_Store
+
+# ffmpeg 2-pass logs (we'll add this later)
+*ffmpeg2pass*.log*
+*.log.mbtree

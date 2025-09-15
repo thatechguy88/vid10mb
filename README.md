@@ -1,0 +1,1 @@
+# vid10mb Learning project to target ≤10 MB clips for Discord.
